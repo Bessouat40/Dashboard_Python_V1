@@ -5,11 +5,15 @@ Dahsboard qui met en relation l'évolution du nombre d'accidents de la route che
 
 ## Quelques visuels de l'application web
 
+Ici vous pourrez voir 4 screenshots de l'application. On peut y voir 2 des 3 pages.
+
 ![screenshot1](https://github.com/Bessouat40/dashboard_accidents_de_la_route/blob/main/page_1_1.PNG?raw=true)
 
 ![screenshot2](https://github.com/Bessouat40/dashboard_accidents_de_la_route/blob/main/page_1_2.PNG?raw=true)
 
 ![screenshot3](https://github.com/Bessouat40/dashboard_accidents_de_la_route/blob/main/page_2.PNG?raw=true)
+
+![screenshot4](https://github.com/Bessouat40/dashboard_accidents_de_la_route/blob/main/page_2_2.PNG?raw=true)
 
 # User's Guide :
 
