@@ -1,5 +1,6 @@
-# Dashboard_Python_V1
-Lien entre les accidents de voiture chez les jeunes et leur consommation d'alcool dans le monde
+# Dashboard qui permet de voir la relation entre les accidents de la route chez les jeunes et leur consommation d'alcool
+
+Dahsboard qui met en relation l'évolution du nombre d'accidents de la route chez les jeunes dans le monde avec l'évolution de leur consommation d'alcool.
 
 
 # User's Guide :
